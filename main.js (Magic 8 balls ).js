@@ -1,5 +1,4 @@
-// index.js
-// 1 magic 8 ball program
+// theb traditionl Magic 8 ball game through Javascript basic tools 
 const readline = require('readline');
 
 const r1 = readline.createInterface({
